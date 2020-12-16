@@ -11,8 +11,6 @@ A simple note pad application built with:
 * and MySQL
 
 
-And then deployed to Heroku: https://notepad-101.herokuapp.com/#
-
 ## Api Endpoints
 * **Get all notes(supports query string) (GET): '/api/notes/:start?/:limit?/:order?'**
 * **Get note by id (GET): '/api/note/:id'**
